@@ -2,8 +2,6 @@ rm(list=ls())
 
 rm(list=ls())
 library(readxl)
-
-pres = read_excel("1976-2020-president-cleaned.xlsx")
 library(dplyr)
 library(tidyr)
 
